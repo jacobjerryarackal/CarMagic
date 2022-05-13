@@ -1,4 +1,4 @@
-# Bikemagic
+# Carmagic
 FUTURE READY TALENT -INTERNSHIP PROJECT
 ..........................................
 MICROSOFT AZURE IN LIFESTYLE INDUSTRY
