@@ -15,7 +15,7 @@ Core Azure services used :
 
 
 Predicting the price of the Car 
-In this we are going to find out the price of a bike .
+In this we are going to find out the price of a car .
 For this we have created a ML model that predict the price of the car should be according to our inputs.
 This model is made in Microsoft Machine Studio.
 
